@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **satkurikailash@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Z1AvvuW22wCjBYn2UYaOOBNpZSr2b6NT/view?usp=sharing)
+- 📄 Know about my experiences [My Resume]()
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
