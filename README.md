@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Satkuri%20Kailash&theme=radical&border_radius=5.6&card_width=490)](https://git.io/streak-stats)" alt="satkurikailash" width="600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satkuri%20Kailash&theme=radical&border_radius=5.6&card_width=490" alt="GitHub Streak Stats for Satkuri Kailash" width="600" />
 </p>
 
 <p align="center">
