@@ -1,59 +1,96 @@
 <h1 align="center">Hello 👋, I'm Satkuri Kailash</h1>
-<h3 align="center">A Passionate Machine Learning Developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=satkurikailash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h3 align="center">Software Engineering Enthusiast | Full-Stack Developer | Machine Learning & Artificial Intelligence | Professional in WordPress & PHP</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satkurikailash&label=Profile%20views&color=0e75b6&style=flat" alt="satkurikailash" width="200" height="60"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satkurikailash" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=satkurikailash&column=7&margin-w=15&margin-h=15" alt="satkurikailash" />
   </a>
 </p>
-<p align="center">
-  I am dedicated to exploring the intersection of Machine Learning and Web Development. I believe in continuous learning and collaboration, always eager to take on new challenges and share my knowledge.
-</p>
-🔭 I’m currently working on projects related to Machine Learning.
 
-🌱 I’m expanding my knowledge in Advanced Web Development and Machine Learning Techniques.
+- 🌱 I’m currently learning **Advanced Web Development and Machine Learning Techniques**
 
-👯 I’m open to collaborating on innovative projects like the Car Travel Website.
+- 👨‍💻 All of my projects are available at [My GitHub Repository](https://github.com/satkurikailash/satkurikailash)
 
-🤝 I’m seeking assistance to enhance the Car Travel Website.
+- 💬 Ask me about **C, C++, Python, Machine Learning, Artificial Intelligence, WordPress, PHP Full-Stack Development**
 
-👨‍💻 You can explore all of my projects on my GitHub profile.
+- 📫 How to reach me **satkurikailash@gmail.com**
 
-📝 I frequently write articles and tutorials on technology-related topics. Check them out here.
-
-💬 Feel free to ask me about C, C++, Python, Machine Learning, Artificial Intelligence, WordPress, PHP Full-Stack Development.
-
-📫 You can reach me at satkurikailash@gmail.com.
-
-📄 To learn more about my experiences and expertise, visit my portfolio.
-
-⚡ Fun Fact: Deep thinkers are more interested in the underlying meaning of things than the surface, whether it's the accepted wisdom or their own initial reactions.
+- 📄 Know about my experiences [My Resume]()
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/satkuri-kailash-b35187243/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
+  <table align="center">
+    <tr>
+      <td><a href="https://linkedin.com/in/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="60" width="60" /></a></td>
+      <td><a href="https://www.hackerrank.com/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="60" width="60" /></a></td>
+      <td><a href="https://www.leetcode.com/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="60" width="60" /></a></td>
+      <td><a href="https://auth.geeksforgeeks.org/user/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="60" width="60" /></a></td>
+    </tr>
+  </table>
 </p>
-<h3 align="center">Languages and Tools:</h3>
+
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>
-  <!-- Add the rest of the tools and languages as in your original file -->
+  <table align="center">
+    <tr>
+      <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></a></td>
+      <td><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a></td>
+      <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a></td>
+    </tr>
+  </table>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satkurikailash&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satkurikailash&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satkurikailash&" alt="GitHub Streak" /></p>
+
+<h3 align="center">Development Skills:</h3>
 <p align="center">
-  I am excited to tackle diverse projects, from web development to machine learning. Let's collaborate and create something amazing!
+  <table align="center">
+    <tr>
+      <td><a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="60" height="60"/></a></td>
+      <td><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a></td>
+      <td><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Machine Learning & AI:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a></td>
+      <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a></td>
+      <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a></td>
+      <td><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<h3 align="center">Other Tools:</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a></td>
+      <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/></a></td>
+      <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/></a></td>
+      <td><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/></a></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satkurikailash&show_icons=true&locale=en&layout=compact" alt="satkurikailash" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satkurikailash&show_icons=true&locale=en" alt="satkurikailash" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Satkuri%20Kailash&theme=radical&border_radius=5.6&card_width=490" alt="GitHub Streak Stats for Satkuri Kailash" width="600" />
+</p>
+
+<p align="center">
+  I am capable of tackling a variety of projects, from web development to machine learning. Let's collaborate and create something amazing!
 </p>
