@@ -1,8 +1,3 @@
-[![MasterHead]"https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e"]()
-
-
-
-
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e">
