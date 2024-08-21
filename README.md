@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/fa4a7b46-fc99-4b78-81d8-e15707b33c4b)]()
+[![MasterHead](<iframe src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e">via GIPHY</a></p>)]()
 
 
 
