@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e">via GIPHY</a></p>)]()
+[![MasterHead]("https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e")]()
 
 
 
