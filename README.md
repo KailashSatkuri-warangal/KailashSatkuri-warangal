@@ -1,4 +1,8 @@
-[![MasterHead](https://drive.google.com/file/d/1Krml0fVhlmiUzvrz0txhLCxiQQWTkBfW/view?usp=sharing)]()
+[![MasterHead](https://github.com/user-attachments/assets/fa4a7b46-fc99-4b78-81d8-e15707b33c4b)]()
+
+
+
+
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Krml0fVhlmiUzvrz0txhLCxiQQWTkBfW/view?usp=sharing">
