@@ -1,11 +1,11 @@
-[![MasterHead]("https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e")]()
+[![MasterHead]"https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e"]()
 
 
 
 
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Krml0fVhlmiUzvrz0txhLCxiQQWTkBfW/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashsatkuri-warangal" width="200" height="60"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal" alt="kailashsatkuri-warangal" /></a> </p>
