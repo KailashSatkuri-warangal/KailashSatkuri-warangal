@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1Krml0fVhlmiUzvrz0txhLCxiQQWTkBfW/view?usp=sharing)]()
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hack-hacking-hacker-hackerman-programmer-gif-13167413482750165588">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Krml0fVhlmiUzvrz0txhLCxiQQWTkBfW/view?usp=sharing">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashsatkuri-warangal" width="200" height="60"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal" alt="kailashsatkuri-warangal" /></a> </p>
