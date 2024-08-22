@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link](https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link)
 
-- 📝 I regularly write articles on [https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link](https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link)
+- 📝 I regularly write articles on [MY resume](https://drive.google.com/file/d/1vU1keywtApqyPs9-SuG4L4vbg8gGwLpi/view?usp=sharing)
 
 - 💬 Ask me about **C, C++, Python, Machine Learning, Artificial Intelligence, WordPress, PHP Full-Stack Development**
 
