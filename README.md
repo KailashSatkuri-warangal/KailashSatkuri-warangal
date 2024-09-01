@@ -38,7 +38,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2203a52174)
 <br>
 
-## 🛠️ Skills
+<!-- ## 🛠️ Skills 
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -97,7 +97,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-26C6DA?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-26C6DA?style=for-the-badge&logo=adobe-photoshop&logoColor=white)-->
 
 ## 🛠️ Skills
 
