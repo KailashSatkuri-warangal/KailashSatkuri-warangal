@@ -1,4 +1,4 @@
-<img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdsaWcxc3E3MnpmamMxN3RvZDhveWpxOWFmbGJhcXBvcmphMTJzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="200">
+<img src= "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdsaWcxc3E3MnpmamMxN3RvZDhveWpxOWFmbGJhcXBvcmphMTJzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="1000" height="200">
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashsatkuri-warangal" width="200" height="60"/> </p>
