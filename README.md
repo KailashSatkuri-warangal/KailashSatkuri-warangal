@@ -42,3 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailashsatkuri-warangal&" alt="kailashsatkuri-warangal" /></p>
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUyMzAxMG9uYjc0bTFtZTdnZnBmb2FmYjR2cXV3cHZwZHNnZmVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200">
