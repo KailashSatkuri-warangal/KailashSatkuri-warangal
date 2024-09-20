@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal" alt="kailashsatkuri-warangal" /></a> </p>
 
 <br>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal " alt="kailashsatkuri-warangal" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&title=Followers" alt="kailashsatkuri-warangal" /></a> </p>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/satkurikailash/satkurikailash)
 
