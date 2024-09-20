@@ -5,7 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashsatkuri-warangal" width="200" height="60"/> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal" alt="kailashsatkuri-warangal" /></a> </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal title=Followers"/></p>
+
+<br>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal " alt="kailashsatkuri-warangal" /></a> </p>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/satkurikailash/satkurikailash)
 
