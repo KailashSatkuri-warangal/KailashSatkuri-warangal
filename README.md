@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal" alt="kailashsatkuri-warangal" /></a> </p>
 
 <br>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&title=Followers" alt="kailashsatkuri-warangal" /></a> </p>
+
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/satkurikailash/satkurikailash)
 
@@ -17,9 +17,9 @@
 
 - 🤝 I’m looking for help with [Car Travel Website](https://github.com/monosage-warangal/kailash-localhost)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link](https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link](LINK)
 
-- 📝 I regularly write articles on [https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link](https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link)
+- 📝 I regularly write articles on [https://drive.google.com/file/d/1NeC-x6JkARsAg3F7GiKfubXSSaAawRJg/view?usp=drive_link](LINK)
 
 - 💬 Ask me about **C, C++, Python, Machine Learning, Artificial Intelligence, WordPress, PHP Full-Stack Development**
 
@@ -33,7 +33,7 @@
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satkuri-kailash/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KailashSatkuri-warangal) |
 |:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LELe55uaSg/) | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2203a52174) |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2203a52174/) | [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2203a52174) |
 
 <!-- ## 🛠️ Skills 
 
@@ -138,3 +138,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kailashsatkuri-warangal&" alt="kailashsatkuri-warangal" /></p>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUyMzAxMG9uYjc0bTFtZTdnZnBmb2FmYjR2cXV3cHZwZHNnZmVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200">
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&title=Followers" alt="kailashsatkuri-warangal" /></a> </p>
