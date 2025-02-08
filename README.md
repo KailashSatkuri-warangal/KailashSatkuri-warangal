@@ -123,7 +123,8 @@
 |---|
 
 ---
-
+# 🧑‍💻 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/2203a52174?theme=dark&font=Exo&ext=heatmap)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kailashsatkuri-warangal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
