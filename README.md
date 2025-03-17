@@ -10,11 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&theme=darkhub" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&theme=nord" alt="GitHub Trophies"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&theme=nord" alt="GitHub Trophies"/>
-</p>
+
 ---
 
 ## 🚀 About Me
