@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A Passionate Machine Learning Developer from India</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&width=435&lines=Machine+Learning+Developer;AI+Enthusiast;Python+%26+Java+Expert;Full-Stack+Web+Developer" alt="Typing Animation" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
