@@ -124,4 +124,25 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kailashsatkuri-warangal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
+</p>
+
+
+<p align="center">
+  <a href="https://skyline.github.com/kailashsatkuri-warangal">
+    <img src="https://img.shields.io/badge/My%20GitHub%20Skyline-FFA500?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:satkurikailash@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Looking+for+Internship!;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
+  </a>
+</p>
+
 🚀 *Stay curious and keep learning!*
