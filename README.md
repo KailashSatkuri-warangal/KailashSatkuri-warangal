@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
+
 ---
 
 ## 🛠️ Skills
@@ -104,7 +105,9 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kailashsatkuri-warangal&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailashsatkuri-warangal&theme=react-dark"/>
+</p>
 
 ---
 
