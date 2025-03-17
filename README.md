@@ -125,18 +125,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kailashsatkuri-warangal&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
 </p>
 
-
 <p align="center">
-  <a href="https://skyline.github.com/kailashsatkuri-warangal">
-    <img src="https://img.shields.io/badge/My%20GitHub%20Skyline-FFA500?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsatkuri-warangal&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
