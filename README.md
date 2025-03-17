@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&theme=nord" alt="GitHub Trophies"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&theme=nord&column=3" alt="GitHub Trophies"/>
+</p>
 
 ---
 
