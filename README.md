@@ -135,7 +135,9 @@
 
 ## 🌄 My GitHub Skyline (3D Contribution Graph)
 
-🔗 [Download My 3D GitHub Skyline (STL)](https://github.com/kailashsatkuri-warangal/3D-Skyline)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kailashsatkuri-warangal/3D-Skyline/main/my-skyline.png" alt="GitHub Skyline" width="800"/>
+</p>
 
 <p align="center">
   <a href="mailto:satkurikailash@gmail.com">
