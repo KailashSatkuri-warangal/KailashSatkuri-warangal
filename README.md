@@ -5,7 +5,7 @@
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm Satkuri Kailash</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">A Passionate Machine Learning Developer from India</span> </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI+Enthusiast;Python+%26+Java+Expert;Full-Stack+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Generative+AI+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
