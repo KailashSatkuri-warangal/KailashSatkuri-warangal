@@ -141,16 +141,9 @@
   </a>
 </p>
 
-### 🌟 Preview
-
+### 🌟 Preview  
 <p align="center">
   <img src="<IMAGE_URL>" alt="GitHub Skyline 3D Preview" width="800"/>
-</p>
-
-<p align="center">
-  <a href="https://skyline.github.com/kailashsatkuri-warangal">
-    <img src="https://img.shields.io/badge/View%20My%20Live%20Skyline-00BFFF?style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 <p align="center">
