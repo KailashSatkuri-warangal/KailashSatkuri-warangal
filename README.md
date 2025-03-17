@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Header"/>
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Header" width="1000" height="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
