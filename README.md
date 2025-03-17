@@ -1,4 +1,6 @@
-<h1 align="center">![Header](https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)</h1>
+<p align="center">
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Header"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Satkuri Kailash</h1>
 <h3 align="center">A Passionate Machine Learning Developer from India</h3>
