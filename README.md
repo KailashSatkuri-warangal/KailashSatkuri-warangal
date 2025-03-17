@@ -24,7 +24,7 @@
 - 📄 Know more: [My Resume](https://drive.google.com/file/d/1vU1keywtApqyPs9-SuG4L4vbg8gGwLpi/view?usp=sharing) | [My Portfolio](https://satkuri-kailash-portfolio.vercel.app/)
 - 💬 Ask me about **C, C++, Python, AI, ML, Full-Stack Development**
 - 📫 Reach me at **satkurikailash@gmail.com**
-- ⚡ Fun fact: *Deep thinkers focus on depth rather than surface.*
+- ⚡ Fun fact: _Deep thinkers focus on depth rather than surface._
 
 ---
 
@@ -50,27 +50,32 @@
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📚 Frameworks & Libraries
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ### 🌐 IoT Tools
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
@@ -128,6 +133,9 @@
   <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
 </p>
 
+## 🌄 My GitHub Skyline (3D Contribution Graph)
+
+🔗 [Download My 3D GitHub Skyline (STL)](https://github.com/kailashsatkuri-warangal/3D-Skyline)
 
 <p align="center">
   <a href="mailto:satkurikailash@gmail.com">
@@ -135,4 +143,4 @@
   </a>
 </p>
 
-🚀 *Stay curious and keep learning!*
+🚀 _Stay curious and keep learning!_
