@@ -28,11 +28,20 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satkuri-kailash/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/KailashSatkuri-warangal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/2203a52174/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/2203a52174)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/satkuri-kailash/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/KailashSatkuri-warangal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/2203a52174/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/2203a52174">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+  </a>
+</p>
 ---
 
 ## 🛠️ Skills
@@ -67,19 +76,29 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kailashsatkuri-warangal&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kailashsatkuri-warangal&theme=radical"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashsatkuri-warangal&theme=highcontrast" alt="GitHub Streak"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsatkuri-warangal&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailashsatkuri-warangal&theme=radical"/>
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailashsatkuri-warangal&theme=radical"/>
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kailashsatkuri-warangal&theme=radical&utcOffset=5.5"/>
 </p>
 
 ---
 
 ## 📌 Pinned Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kailashsatkuri-warangal&repo=satkurikailash&theme=radical)](https://github.com/kailashsatkuri-warangal/satkurikailash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kailashsatkuri-warangal&repo=crop-detection&theme=radical)](https://github.com/kailashsatkuri-warangal/crop-detection)
+<p align="center">
+  <a href="https://github.com/kailashsatkuri-warangal/satkurikailash">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
+  </a>
+  <a href="https://github.com/kailashsatkuri-warangal/crop-detection">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
+  </a>
+</p>
 
 ---
 
