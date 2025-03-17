@@ -128,9 +128,6 @@
   <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsatkuri-warangal&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <a href="mailto:satkurikailash@gmail.com">
