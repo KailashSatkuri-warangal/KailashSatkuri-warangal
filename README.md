@@ -132,6 +132,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kailashsatkuri-warangal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashsatkuri-warangal" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=KailashSatkuri-warangal&theme=great-gatsby)](https://git.io/streak-stats)
 </p>
 
