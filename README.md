@@ -129,11 +129,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
 </p>
 
-## 🌄 My GitHub Skyline (3D Contribution Graph)
+ ## 🌄 My GitHub Skyline (3D Contribution Graph)
 
 <p align="center">
   <a href="https://github.com/kailashsatkuri-warangal/3D-Skyline/blob/main/skyline-2023.stl">
@@ -144,7 +144,7 @@
 ### 🌟 Preview  
 <p align="center">
   <img src="<IMAGE_URL>" alt="GitHub Skyline 3D Preview" width="800"/>
-</p>
+</p> -->
 
 <p align="center">
   <a href="mailto:satkurikailash@gmail.com">
