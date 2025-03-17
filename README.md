@@ -78,13 +78,13 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kailashsatkuri-warangal&theme=radical"/>
-  <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
-  <br>
+</p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailashsatkuri-warangal&theme=radical"/>
-  <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailashsatkuri-warangal&theme=radical"/>
-  <br>
+</p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kailashsatkuri-warangal&theme=radical&utcOffset=5.5"/>
 </p>
 
