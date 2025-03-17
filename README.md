@@ -10,13 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&theme=nord" alt="GitHub Trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&theme=nord&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&theme=nord&no-bg=true&column=4&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&no-bg=true&theme=nord" alt="GitHub Trophies"/>
 </p>
 
 ---
