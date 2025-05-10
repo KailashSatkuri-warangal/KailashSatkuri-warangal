@@ -4,6 +4,7 @@
 
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm Satkuri Kailash</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">A Passionate Machine Learning Developer from India</span> </h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Generative+AI+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
 </p>
@@ -21,7 +22,7 @@
 
 - 🔭 I’m currently working on **[Machine Learning](https://github.com/satkurikailash/satkurikailash)**
 - 🌱 I’m learning **Advanced Web Development & ML Techniques**
-- 📄 Know more: [My Resume](https://drive.google.com/file/d/1vU1keywtApqyPs9-SuG4L4vbg8gGwLpi/view?usp=sharing) | [My Portfolio](https://satkuri-kailash-portfolio.vercel.app/)
+- 📄 Know more: [My Resume](https://drive.google.com/file/d/1c5MD1g6v2r6j_Y6Us1Hf4Y0rLyTPSygZ/view?usp=sharing) | [My Portfolio](https://satkuri-kailash-portfolio.vercel.app/)
 - 💬 Ask me about **C, C++, Python, AI, ML, Full-Stack Development**
 - 📫 Reach me at **satkurikailash@gmail.com**
 - ⚡ Fun fact: _Deep thinkers focus on depth rather than surface._
@@ -113,8 +114,16 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailashsatkuri-warangal&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailashsatkuri-warangal&theme=dracula" alt="contribution graph" />
 </p>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" />
+</picture>
 
 ---
 
@@ -128,23 +137,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
-
-<!--<p align="center">
-  <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
-</p>
-
- ## 🌄 My GitHub Skyline (3D Contribution Graph)
-
-<p align="center">
-  <a href="https://github.com/kailashsatkuri-warangal/3D-Skyline/blob/main/skyline-2023.stl">
-    <img src="https://img.shields.io/badge/Download%203D%20Skyline%20STL-FFA500?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-### 🌟 Preview  
-<p align="center">
-  <img src="<IMAGE_URL>" alt="GitHub Skyline 3D Preview" width="800"/>
-</p> -->
 
 <p align="center">
   <a href="mailto:satkurikailash@gmail.com">
