@@ -81,41 +81,12 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kailashsatkuri-warangal&theme=radical"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kailashsatkuri-warangal&theme=radical"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kailashsatkuri-warangal&theme=radical"/>
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kailashsatkuri-warangal&theme=radical&utcOffset=5.5"/>
-</p>
-
----
-
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/kailashsatkuri-warangal/satkurikailash">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
-  </a>
-  <a href="https://github.com/kailashsatkuri-warangal/crop-detection">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kailashsatkuri-warangal&theme=radical"/>
-  </a>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailashsatkuri-warangal&theme=react-dark"/>
 </p>
-
+<img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" alt="Snake animation" />
 ---
 
 ### 🎯 Profile Badges
