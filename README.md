@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **[Machine Learning](https://github.com/satkurikailash/satkurikailash)**
 - 🌱 I’m learning **Advanced Web Development & ML Techniques**
-- 📄 Know more: [My Resume](https://drive.google.com/file/d/1vU1keywtApqyPs9-SuG4L4vbg8gGwLpi/view?usp=sharing) | [My Portfolio](https://satkuri-kailash-portfolio.vercel.app/)
+- 📄 Know more: [My Resume](https://drive.google.com/file/d/1c5MD1g6v2r6j_Y6Us1Hf4Y0rLyTPSygZ/view?usp=drive_link) | [My Portfolio](https://satkuri-kailash-portfolio.vercel.app/)
 - 💬 Ask me about **C, C++, Python, AI, ML, Full-Stack Development**
 - 📫 Reach me at **satkurikailash@gmail.com**
 - ⚡ Fun fact: _Deep thinkers focus on depth rather than surface._
