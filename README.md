@@ -124,27 +124,38 @@
 </p>
 ### 📊 GitHub Statistics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-         alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </a>
-
-  <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight&hide_border=true" 
-         alt="Top Languages" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </a>
-
-  <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" 
-         alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </a>
-
-  <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=react-dark&hide_border=true&area=true&custom_title=Contribution Graph" 
-         alt="Contribution Graph" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+               alt="GitHub Stats" width="320" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight&hide_border=true" 
+               alt="Top Languages" width="320" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding-top:15px;">
+        <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
+          <img src="https://streak-stats.demolab.com?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" 
+               alt="GitHub Streak" width="320" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+      <td align="center" style="padding-top:15px;">
+        <a href="https://github.com/KailashSatkuri-warangal" target="_blank">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=react-dark&hide_border=true&area=true&custom_title=Contribution Graph" 
+               alt="Contribution Graph" width="320" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
