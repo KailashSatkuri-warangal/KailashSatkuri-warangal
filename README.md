@@ -33,6 +33,37 @@
 - ⚡ Fun fact: _I love solving problems that merge AI with real-world impact._  
 
 ---
+### 🌟 Spotlight on Projects
+
+<table width="100%">
+  <tr valign="top">
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/KailashSatkuri-warangal/crop-detection-cnn" target="_blank">🌱 Crop Detection using CNN</a></h3>
+        <p>A deep learning project that leverages Convolutional Neural Networks to classify and detect crops based on image data, supporting smarter agriculture and precision farming.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/KailashSatkuri-warangal/customer-review-analysis" target="_blank">💬 Customer Review Analysis with Lexicon + VADER</a></h3>
+        <p>Analyzes customer reviews using Lexicon-based methods and the VADER sentiment analysis tool, extracting insights into customer satisfaction and product sentiment trends.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+          <img src="https://img.shields.io/badge/VADER-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="VADER"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+---
 
 ## 🌐 Connect with Me
 
