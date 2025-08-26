@@ -12,7 +12,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Generative+AI+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/satkuri-kailash/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KailashSatkuri-warangal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/satkuri_Kailash/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/2203a52174" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -74,45 +79,64 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/satkuri-kailash/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/KailashSatkuri-warangal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/satkuri_Kailash/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/2203a52174" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk)
+I have hands-on experience with a range of programming languages, frameworks, AI/ML libraries, web technologies, databases, and tools that are commonly used in industry projects. This stack reflects my capability to build end-to-end solutions, from data-driven AI systems to full-stack web applications.
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<table width="100%">
+  <tr>
+    <!-- Programming & AI/ML -->
+    <td width="33%" valign="top" align="center">
+      <h4>🧠 Programming, AI & ML</h4>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      </p>
+    </td>
+<!-- Web Development & Databases -->
+  <td width="33%" valign="top" align="center">
+    <h4>🌐 Web Dev & Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+<!-- Cloud, Tools & Platforms -->
+  <td width="33%" valign="top" align="center">
+      <h4>☁️ Cloud, Tools & Platforms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📚 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
-### 🌐 IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
 ---
+
 
 ## 📊 GitHub Analytics
 
@@ -138,21 +162,15 @@
 
 ## 🎯 Profile Highlights
 
-- 🏆 **Hackathon Participant & Innovator** — Always exploring AI solutions  
-- 💻 **AI/ML Developer & Full-Stack Projects** on GitHub  
-- 🌍 **Active in Developer Communities** & continuous learner  
-- 📜 **Certifications:** NPTEL, Cisco, AICTE, and more  
+- 💻 **AI/ML Developer & Full-Stack Enthusiast** — Built end-to-end projects using Python, TensorFlow, PyTorch, Flask, and modern web technologies.  
+- 🌱 **WordPress Developer | Monosage** — Successfully designed, developed, and hosted multiple client websites with a focus on performance, usability, and responsive design.  
+- 🤝 **Active Community Contributor | Google Developer Groups** — Regularly participate in tech talks, workshops, and hackathons, sharing knowledge and mentoring peers.  
+- 🏆 **Hackathon Participant & Innovator** — Consistently explore creative solutions merging AI/ML with real-world applications.  
+- 📜 **Certifications** — Earned credentials in Networking, Programming, and AI from reputable institutions like Cisco, NPTEL, and AICTE.  
+- 🌍 **Professional Growth & Learning** — Continuously upgrading skills in advanced web frameworks, AI/ML pipelines, and cloud technologies to deliver impactful solutions.
 
 ---
-
 <p align="center">
-  <a href="mailto:satkurikailash@gmail.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Looking+for+Internships;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=📧+Reach+me+at+satkurikailash@gmail.com;🚀+Learning+AI+%26+ML;💻+Building+Full-Stack+Projects" alt="Scrolling Message"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=🚀+Stay+Curious;💡+Keep+Building;🌍+Dream+Big" alt="Motivational Outro"/>
-</p>
