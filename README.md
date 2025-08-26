@@ -113,4 +113,7 @@
 
 ---
 
-🚀 *Stay curious. Keep building. Dream big.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=🚀+Stay+Curious;💡+Keep+Building;🌍+Dream+Big" alt="Motivational Outro"/>
+</p>
+
