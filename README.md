@@ -25,22 +25,22 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Machine Learning Projects](https://github.com/satkurikailash)**
-- 🌱 Exploring **Advanced Web Frameworks** & **State-of-the-Art ML**
-- 📄 Know more: [**My Resume**](https://drive.google.com/file/d/1c5MD1g6v2r6j_Y6Us1Hf4Y0rLyTPSygZ/view) | [**My Portfolio**](https://satkuri-kailash-portfolio.vercel.app/)
-- 💬 Ask me about: `C`, `C++`, `Python`, `AI/ML`, `Full-Stack Development`
-- 📫 Reach me at: **satkurikailash@gmail.com**
-- ⚡ Fun fact: _I love solving problems that merge AI with real-world impact._
+- 🔭 Currently working on <a href="https://github.com/satkurikailash" target="_blank"><b>Machine Learning Projects</b></a>  
+- 🌱 Exploring **Advanced Web Frameworks** & **State-of-the-Art ML**  
+- 📄 Know more: <a href="https://drive.google.com/file/d/1c5MD1g6v2r6j_Y6Us1Hf4Y0rLyTPSygZ/view" target="_blank"><b>My Resume</b></a> | <a href="https://satkuri-kailash-portfolio.vercel.app/" target="_blank"><b>My Portfolio</b></a>  
+- 💬 Ask me about: `C`, `C++`, `Python`, `AI/ML`, `Full-Stack Development`  
+- 📫 Reach me at: **satkurikailash@gmail.com**  
+- ⚡ Fun fact: _I love solving problems that merge AI with real-world impact._  
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satkuri-kailash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/KailashSatkuri-warangal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/satkuri_Kailash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/profile/2203a52174"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/satkuri-kailash/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KailashSatkuri-warangal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/satkuri_Kailash/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/2203a52174" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
@@ -106,7 +106,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:satkurikailash@gmail.com">
+  <a href="mailto:satkurikailash@gmail.com" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Looking+for+Internships;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
   </a>
 </p>
@@ -116,4 +116,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=🚀+Stay+Curious;💡+Keep+Building;🌍+Dream+Big" alt="Motivational Outro"/>
 </p>
-
