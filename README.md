@@ -22,9 +22,9 @@
   <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kailashsatkuri-warangal&margin-w=5&no-bg=true&theme=nord" alt="GitHub Trophies"/>
-</p>
+</p>-->
 
 ---
 
