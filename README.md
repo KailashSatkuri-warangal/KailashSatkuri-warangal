@@ -156,6 +156,8 @@ I have hands-on experience with a range of programming languages, frameworks, AI
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg)
+
 </details>
 
 ---
