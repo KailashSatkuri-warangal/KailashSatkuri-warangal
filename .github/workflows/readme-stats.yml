@@ -1,21 +1,28 @@
 name: Update README Stats
+
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'  # runs every hour
+  workflow_dispatch:      # allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout the repo
       - uses: actions/checkout@v3
-      - name: Generate stats
+
+      # Step 2: Generate README from Vercel API
+      - name: Generate GitHub Stats
         run: |
-          curl -o README.md "https://your-vercel-instance.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&count_private=true"
+          curl -s -o README.md "https://kailash-satkuri-warangal.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&count_private=true"
+
+      # Step 3: Commit & Push changes
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update GitHub Stats"
+          git commit -m "Auto-update README with latest GitHub stats" || echo "No changes to commit"
           git push
