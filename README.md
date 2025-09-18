@@ -136,9 +136,7 @@ I have hands-on experience with a range of programming languages, frameworks, AI
 
 
 ---
-
-
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <details>
 <summary>📈 Click to Expand</summary>
@@ -146,71 +144,59 @@ I have hands-on experience with a range of programming languages, frameworks, AI
 
 <!-- 🎬 FUN CODING GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"/>
 </p>
 
 ---
 
-<!-- 🏆 TROPHIES -->
+<!-- 🏆 TROPHIES (Smaller Row) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KailashSatkuri-warangal&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KailashSatkuri-warangal&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" width="90%"/>
 </p>
 
 ---
 
-<!-- 📊 GITHUB STATS -->
+<!-- 📊 GITHUB STATS + LANGUAGES (Compact Side by Side) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=ghp_11AUFDIWQ0zxHUmeUKA3qF_zTWvwyh3iuBZ2WLroP0DgH97JzOSChTqnp84PYZPSWKLTM54IACIRh4J9bC" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight&hide_border=true&token=ghp_11AUFDIWQ0zxHUmeUKA3qF_zTWvwyh3iuBZ2WLroP0DgH97JzOSChTqnp84PYZPSWKLTM54IACIRh4J9bC" width="48%"/>
+  <img src="https://your-vercel-app-url/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-<!-- 🔥 STREAKS -->
+<!-- 🔥 STREAKS (Smaller) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" width="65%"/>
+  <img src="https://streak-stats.demolab.com?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 ---
 
 <!-- 📈 ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</p>
+
+---
+
+<!-- 📌 MINI CARDS (Compact 2x2 Grid) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KailashSatkuri-warangal&theme=tokyonight&utcOffset=5.5" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KailashSatkuri-warangal&theme=tokyonight" width="45%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KailashSatkuri-warangal&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KailashSatkuri-warangal&theme=tokyonight" width="45%"/>
 </p>
 
 ---
 
 <!-- 🐍 SNAKE ANIMATIONS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" alt="Snake animation" width="90%"/>
-</p>
-
----
-
-<!-- 🏙️ 3D CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/github-readme-3d-contrib/main/docs/demo.gif" width="95%"/>
-</p>
-<p align="center">
-  <i>(Enable the 3D graph GitHub Action in your repo to generate your own skyline!)</i>
-</p>
-
----
-
-<!-- 📋 SUMMARY CARDS -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KailashSatkuri-warangal&theme=tokyonight" width="95%"/>
-</p>
-
----
-
-<!-- 📌 PINNED PROJECTS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KailashSatkuri-warangal&repo=crop-detection-guard-ai&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KailashSatkuri-warangal&repo=SMART-WEARABLE-MONITORING-SYSTEMS&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" alt="Snake animation" width="85%"/>
 </p>
 
 </details>
+
 
 
 ---
