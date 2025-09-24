@@ -158,7 +158,7 @@ I have hands-on experience with a range of programming languages, frameworks, AI
 
 <!-- 📊 GITHUB STATS + LANGUAGES (Compact Side by Side) -->
 <p align="center">
-  <img src="https://your-vercel-app-url/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
@@ -166,8 +166,11 @@ I have hands-on experience with a range of programming languages, frameworks, AI
 
 <!-- 🔥 STREAKS (Smaller) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" width="55%"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=KailashSatkuri-warangal&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 
