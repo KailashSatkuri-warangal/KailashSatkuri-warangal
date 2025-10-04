@@ -12,12 +12,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Generative+AI+Enthusiast;Always+Learning+%26+Building" alt="Typing Animation" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/satkuri-kailash/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/KailashSatkuri-warangal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/satkuri_Kailash/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/profile/2203a52174" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+</p><br>
+<!-- 🏆 TROPHIES (Smaller Row) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KailashSatkuri-warangal&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" width="90%"/>
+</p><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kailashsatkuri-warangal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -149,13 +154,6 @@ I have hands-on experience with a range of programming languages, frameworks, AI
 
 ---
 
-<!-- 🏆 TROPHIES (Smaller Row) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KailashSatkuri-warangal&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" width="90%"/>
-</p>
-
----
-
 <!-- 📊 GITHUB STATS + LANGUAGES (Compact Side by Side) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
@@ -166,9 +164,7 @@ I have hands-on experience with a range of programming languages, frameworks, AI
 
 <!-- 🔥 STREAKS (Smaller) -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=KailashSatkuri-warangal&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
