@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SATKURI KAILASH — Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container header-row">
+      <a class="brand" href="#">SATKURI KAILASH</a>
+      <button class="nav-toggle" aria-expanded="false" aria-label="Toggle navigation">☰</button>
+      <nav class="site-nav" aria-label="Main navigation">
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1>Hi — I'm KAILASH</h1>
+        <p class="lead"> I am a final-year student who is highly motivated, curious, and eager to learn. I enjoy
+          exploring new ideas, improving my skills every day, and working on things that challenge me.</p>
+        <p><a class="btn" href="#projects">View my work</a> <a class="btn ghost" href="#contact">Get in
+            touch</a></p>
+      </div>
+    </section>
+
+    <section id="about" class="container about">
+      <div class="about-grid">
+        <div class="about-card">
+          <div class="avatar" aria-hidden="false">
+            <img src="src/kailash_profile.jpg" alt="Kailash Satkuri" class="avatar-img" width="200" heigt="100">
+          </div>
+
+          <h2>About me</h2>
+
+          <p>
+            B.Tech Computer Science (AI & ML) student with hands-on training through the EduSkills AI/ML
+            cohort program. I have a strong foundation in machine learning concepts, Python programming, and
+            data analysis, and I am interested in applying AI techniques to real-world problems.
+          </p>
+
+          <p class="meta">Location: Warangal, India • Available for freelance</p>
+
+          <!-- Resume Button -->
+          <a href="https://drive.google.com/file/d/1gICgkYYsvon6dxNYWm5ZGhLUIpSvNR66/view?usp=sharing"
+            class="resume-btn" target="_blank" rel="noopener noreferrer">
+            View Resume
+          </a>
+        </div>
+
+
+        <div class="skills">
+          <h3>Skills</h3>
+          <ul class="skill-list">
+            <li>Python</li>
+            <li>Machine Learning Basics</li>
+            <li>Data Analysis</li>
+            <li>Pandas & NumPy</li>
+            <li>Problem Solving</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="container projects">
+      <h2>Selected AI/ML Projects</h2>
+
+      <div class="project-grid">
+        <!-- Smart Wearable Monitoring Systems -->
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('projects/ufo.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>Smart Wearable Monitoring Systems</h3>
+            <p>
+              Machine learning–based healthcare system that analyzes wearable device data
+              to predict patient prescriptions and provide personalized health insights.
+            </p>
+            <p class="card-links">
+              <a href="https://smart-wearable-personal-monitoring-systems.vercel.app/" class="small" target="_blank"
+                rel="noopener noreferrer">Live</a> ·
+              <a href="https://github.com/KailashSatkuri-warangal/SMART-WEARABLE-MONITORING-SYSTEMS" class="small"
+                target="_blank" rel="noopener noreferrer">Source</a>
+            </p>
+          </div>
+        </article>
+
+        <!-- Crop Health Prediction -->
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('projects/sentiment.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>Crop Health Prediction</h3>
+            <p>
+              Image‑based machine learning model trained on 1000+ images per class to
+              detect whether crops are healthy, with experiment tracking using W&B.
+            </p>
+            <p class="card-links">
+              <a href="https://crop-detection-guard-ai.streamlit.app/" class="small" target="_blank"
+                rel="noopener noreferrer">Live</a> ·
+              <a href="https://github.com/KailashSatkuri-warangal/crop-detection-guard-ai" class="small" target="_blank"
+                rel="noopener noreferrer">Source</a>
+            </p>
+          </div>
+        </article>
+
+        <!-- UFO Sightings Analysis -->
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('projects/crop.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>UFO Sightings Data Analysis</h3>
+            <p>
+              Machine learning project that analyzes and predicts UFO sightings by
+              comparing multiple models on real‑time datasets.
+            </p>
+            <p class="card-links">
+              <a href="https://aiorbitufo.streamlit.app/" class="small" target="_blank"
+                rel="noopener noreferrer">Live</a> ·
+              <a href="https://github.com/KailashSatkuri-warangal/AIOrbit_UFO" class="small" target="_blank"
+                rel="noopener noreferrer">Source</a>
+            </p>
+          </div>
+        </article>
+
+        <!-- Customer Sentiment Analysis -->
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('projects/sentiment.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>Customer Sentiment Analysis</h3>
+            <p>
+              NLP‑based sentiment analysis tool using the VADER lexicon to identify
+              emotional tone in customer reviews as part of coursework.
+            </p>
+            <p class="card-links">
+              <a href="https://reviewvibe.streamlit.app/" class="small" target="_blank"
+                rel="noopener noreferrer">Live</a> ·
+              <a href="https://github.com/KailashSatkuri-warangal/Customer_entiment-Analysis" class="small"
+                target="_blank" rel="noopener noreferrer">Source</a>
+            </p>
+          </div>
+        </article>
+
+        <!-- Facial Expression Detection -->
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('projects/facial.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>Facial Expression Detection</h3>
+            <p>
+              CNN‑based facial expression recognition system built with TensorFlow and
+              Keras, trained on the FER2013 dataset to classify seven emotions.
+            </p>
+            <p class="card-links">
+              <a href="https://github.com/KailashSatkuri-warangal/Facial-emotions" class="small" target="_blank"
+                rel="noopener noreferrer">Source</a>
+            </p>
+          </div>
+        </article>
+
+        <!-- Crop Prediction CNN -->
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('Projects/crop.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>Crop Prediction Using CNN</h3>
+            <p>
+              TensorFlow‑based CNN model for crop image classification using data
+              augmentation, early stopping, and model checkpointing.
+            </p>
+            <p class="card-links">
+              <a href="https://github.com/KailashSatkuri-warangal/cropdetection" class="small" target="_blank"
+                rel="noopener noreferrer">Source</a>
+            </p>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card-media"
+            style="background-image:url('Projects/nexhire.png'); background-size:cover; background-position:center;">
+          </div>
+          <div class="card-body">
+            <h3>AI-Powered Recruitment Pipeline(NexHire AI)</h3>
+            <p>
+              AI-driven recruitment platform that automates resume screening, candidate ranking, and job-description
+              matching.
+            </p>
+            <p class="card-links">
+              <a href="https://github.com/KailashSatkuri-warangal/NexHireAI" class="small" target="_blank"
+                rel="noopener noreferrer">
+                Source
+              </a>
+
+            </p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+
+    <section id="contact" class="container contact">
+      <h2>Contact</h2>
+      <form id="contactForm" class="contact-form" action="#" method="post" novalidate>
+        <label>
+          <span>Name</span>
+          <input name="name" type="text" required>
+        </label>
+        <label>
+          <span>Email</span>
+          <input name="email" type="email" required>
+        </label>
+        <label>
+          <span>Message</span>
+          <textarea name="message" rows="5" required></textarea>
+        </label>
+        <button type="submit" class="btn">Send message</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+
+      <!-- Brand / About -->
+      <div class="footer-col">
+        <h3>Kailash Satkuri</h3>
+        <p>
+          AI & Machine Learning enthusiast building intelligent systems, real‑world
+          projects, and modern web applications.
+        </p>
+        <p class="footer-email">
+          📧 <a href="mailto:satkurikailash@gmail.com">satkurikailash@gmail.com</a>
+        </p>
+      </div>
+
+      <!-- Social Links -->
+      <div class="footer-col">
+        <h4>Connect</h4>
+        <h4 class="footer-toggle">Connect</h4>
+
+
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/satkuri-kailash" target="_blank" aria-label="LinkedIn">
+            <svg viewBox="0 0 24 24">
+              <path
+                d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.11 1 2.5 1 4.98 2.12 4.98 3.5zM.22 24h4.56V7.98H.22V24zM8.3 7.98H12.7v2.2h.06c.61-1.16 2.1-2.38 4.32-2.38 4.62 0 5.48 3.04 5.48 6.99V24h-4.56v-6.37c0-1.52-.03-3.48-2.12-3.48-2.12 0-2.44 1.65-2.44 3.36V24H8.3V7.98z" />
+            </svg>
+          </a>
+
+          <a href="https://github.com/KailashSatkuri-warangal" target="_blank" aria-label="GitHub">
+            <svg viewBox="0 0 24 24">
+              <path
+                d="M12 .5C5.73.5.5 5.74.5 12.02c0 5.11 3.29 9.44 7.86 10.98.58.11.79-.25.79-.56v-2.02c-3.2.7-3.87-1.54-3.87-1.54-.53-1.35-1.3-1.71-1.3-1.71-1.06-.72.08-.71.08-.71 1.17.08 1.79 1.21 1.79 1.21 1.04 1.78 2.73 1.27 3.4.97.1-.75.41-1.27.75-1.56-2.56-.29-5.26-1.28-5.26-5.72 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.46.11-3.04 0 0 .97-.31 3.18 1.18a11.1 11.1 0 0 1 5.79 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.58.23 2.75.11 3.04.74.81 1.18 1.84 1.18 3.1 0 4.45-2.71 5.42-5.29 5.7.42.36.8 1.08.8 2.18v3.23c0 .31.21.68.8.56A11.52 11.52 0 0 0 23.5 12C23.5 5.74 18.27.5 12 .5z" />
+            </svg>
+          </a>
+
+          <a href="https://medium.com/@satkurikailash" target="_blank" aria-label="Medium">
+            <svg viewBox="0 0 24 24">
+              <path d="M2 4.5h20v15H2z" />
+            </svg>
+          </a>
+
+          <a href="https://www.credly.com/users/satkuri-kailash" target="_blank" aria-label="Credly">
+            <svg viewBox="0 0 24 24">
+              <circle cx="12" cy="12" r="10" />
+            </svg>
+          </a>
+        </div>
+      </div>
+
+
+      <!-- Featured Projects -->
+      <div class="footer-col">
+        <h4>Featured GitHub Projects</h4>
+        <ul class="repo-list">
+          <li>
+            <span>QuantumCalc</span>
+            <span class="stars">⭐ 4</span>
+          </li>
+          <li>
+            <span>Tic‑Tac‑Toe</span>
+            <span class="stars">⭐ 4</span>
+          </li>
+          <li>
+            <span>advancedapi_express</span>
+            <span class="stars">⭐ 3</span>
+          </li>
+        </ul>
+        <a class="view-more" href="https://github.com/KailashSatkuri-warangal?tab=repositories" target="_blank">
+          View More →
+        </a>
+      </div>
+
+      <!-- Portfolio -->
+      <div class="footer-col">
+        <h4>Portfolio</h4>
+        <p>
+          Explore my complete work, projects, and experiments.
+        </p>
+        <a class="portfolio-btn" href="https://satkuri-kailash-portfolio.vercel.app/" target="_blank">
+          Visit Portfolio
+        </a>
+      </div>
+
+    </div>
+
+    <!-- Bottom -->
+    <div class="footer-bottom">
+      <p>© <span id="year"></span> Kailash Satkuri • Built with ❤️ using HTML & CSS</p>
+    </div>
+  </footer>
+
+
+  <script>
+    // minimal interactivity: nav toggle & form feedback
+    (function () {
+      const toggle = document.querySelector('.nav-toggle');
+      const nav = document.querySelector('.site-nav');
+      toggle.addEventListener('click', () => {
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', String(!expanded));
+        nav.classList.toggle('open');
+      });
+
+      // form handler: prevent real submit and show a tiny confirmation
+      const form = document.getElementById('contactForm');
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        alert('Thanks—this is a demo form. Replace with your endpoint.');
+        form.reset();
+      });
+
+      document.getElementById('year').textContent = new Date().getFullYear();
+    })();
+    const footerItems = document.querySelectorAll('.footer-col, .footer-bottom');
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('show');
+        }
+      });
+    }, { threshold: 0.2 });
+
+    footerItems.forEach(item => observer.observe(item));
+    document.querySelectorAll('.footer-toggle').forEach(toggle => {
+      toggle.addEventListener('click', () => {
+        toggle.parentElement.classList.toggle('open');
+      });
+    });
+
+  </script>
+</body>
+
+</html>
