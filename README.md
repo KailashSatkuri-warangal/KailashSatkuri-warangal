@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=SATKURI%20KAILASH&fontSize=45&fontColor=ffffff"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=SATKURI%20KAILASH&fontSize=45&fontColor=ffffff"/>
 
 ### Machine Learning Developer | Full-Stack Engineer | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&width=700&lines=Machine+Learning+Engineer;AI/ML Developer;Full-Stack Developer;Generative AI Explorer;Always Learning and Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&width=700&lines=Machine+Learning+Engineer;AI/ML Developer;Full-Stack Developer;Generative AI Explorer;Always Learning and Building"/> -->
+<p align="center">
+  <img src="https://github-gadgets-pro.vercel.app/api/banner?username=KailashSatkuri-warangal" width="100%" />
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=KailashSatkuri-warangal&label=Profile%20Views&style=for-the-badge"/>
 
@@ -95,29 +98,67 @@ AI-driven recruitment platform that automates resume screening, candidate rankin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-gadgets-pro.vercel.app/api/stats?username=KailashSatkuri-warangal&theme=dark" width="48%" />
+  <img src="https://github-gadgets-pro.vercel.app/api/languages?username=KailashSatkuri-warangal" width="48%" />
 </p>
+
+---
 
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KailashSatkuri-warangal&theme=tokyonight&hide_border=true" />
+  <img src="https://github-gadgets-pro.vercel.app/api/streak?username=KailashSatkuri-warangal&theme=retro" />
 </p>
 
-## 📊 Contribution Graph
+---
+
+## 📊 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-gadgets-pro.vercel.app/api/heatmap?username=KailashSatkuri-warangal&theme=retro" />
 </p>
 
-## 🧾 GitHub Summary
+---
+
+## 🤖 AI Profile Summary
+
+```
+https://github-gadgets-pro.vercel.app/api/ai-summary?username=KailashSatkuri-warangal
+```
+
+---
+
+## 🚀 AI Project Showcase
+
+```
+https://github-gadgets-pro.vercel.app/api/project-showcase?username=KailashSatkuri-warangal
+```
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KailashSatkuri-warangal&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KailashSatkuri-warangal&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img src="https://github-gadgets-pro.vercel.app/api/trophies?username=KailashSatkuri-warangal&theme=retro" />
 </p>
 
+---
+
+## ⚡ Productivity Score
+
+```
+https://github-gadgets-pro.vercel.app/api/productivity?username=KailashSatkuri-warangal
+```
+
+---
+
+## 🧠 Career Recommendation
+
+```
+https://github-gadgets-pro.vercel.app/api/career?username=KailashSatkuri-warangal
+```
+
+---
 
 ## 🌐 Connect With Me
 
