@@ -1,172 +1,203 @@
-<div align="center">
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=SATKURI%20KAILASH&fontSize=45&fontColor=ffffff"/>
-
-### Machine Learning Developer | Full-Stack Engineer | AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&width=700&lines=Machine+Learning+Engineer;AI/ML Developer;Full-Stack Developer;Generative AI Explorer;Always Learning and Building"/> -->
 <p align="center">
-  <img src="https://github-gadgets-pro.vercel.app/api/banner?username=KailashSatkuri-warangal" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=SATKURI%20KAILASH&fontSize=40&fontColor=ffffff" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=KailashSatkuri-warangal&label=Profile%20Views&style=for-the-badge"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-Final-year B.Tech CSE (AIML) student with strong experience in **Machine Learning, Full-Stack Development, and AI systems**.  
-Focused on building real-world AI solutions using **Python, TensorFlow, PyTorch, OpenCV, React, and FastAPI**.
-
-- Currently working on **Machine Learning Projects**  
-- Exploring **Advanced Web Frameworks & Generative AI**  
-- Ask me about: `Python`, `AI/ML`, `Full-Stack`, `Computer Vision`  
-- Email: **satkurikailash@gmail.com**  
-
----
-
-## 🛠️ Technical Skills
-
-**Programming:** Python, JavaScript  
-**Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
-**Computer Vision:** OpenCV  
-**NLP:** NLTK, SpaCy  
-**Web:** React, Node.js, Flask, FastAPI, Next.js  
-**Databases:** MongoDB, SQLite, Firestore  
-**Tools:** Git, GitHub, Linux, Streamlit, Vercel  
-
----
-
-## 💼 Projects
-
-### 🌾 Crop Detection Guard AI  
-**Tech Stack:** Python, TensorFlow, OpenCV, Flask, Streamlit  
-
-**Description:**  
-AI-based system for detecting crop diseases using computer vision and deep learning models. Enables farmers to upload crop images and receive instant health predictions.
-
-- Built CNN model using TensorFlow  
-- Implemented real-time image processing with OpenCV  
-- Designed Streamlit dashboard  
-- Flask backend for model inference  
-
-**Live:** https://crop-detection-guard-ai.streamlit.app/  
-**GitHub:** https://github.com/KailashSatkuri-warangal/crop-detection-guard-ai  
-
-![Crop Detection UI](https://github.com/KailashSatkuri-warangal/crop-detection-guard-ai/blob/main/CROP_DETECTION_UI.png?raw=true)
-
----
-
-### 📝 Customer Review Sentiment Analysis  
-**Tech Stack:** Python, NLTK, SpaCy, Streamlit  
-
-**Description:**  
-NLP-based system to classify customer reviews as positive, negative, or neutral for better business insights.
-
-- Text preprocessing with tokenization & lemmatization  
-- ML-based sentiment classification  
-- Interactive Streamlit interface  
-- Sentiment visualization  
-
-**Live:** https://reviewvibe.streamlit.app/  
-**GitHub:** https://github.com/KailashSatkuri-warangal/Customer_entiment-Analysis  
-
-![Sentiment UI](https://github.com/KailashSatkuri-warangal/Customer_entiment-Analysis/blob/main/NLP_UI.png?raw=true)
-
----
-
-### 🤖 AI-Powered Recruitment Pipeline (NexHire AI)  
-**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Firebase, Firestore,  
-Google Gemini (Genkit), Zustand, Vercel, Recharts, ShadCN UI  
-
-**Description:**  
-AI-driven recruitment platform that automates resume screening, candidate ranking, and job-description matching.
-
-- Resume parsing and candidate ranking  
-- AI-based JD matching using Gemini  
-- REST APIs and dashboard  
-- Cloud deployment on Vercel  
-
-**GitHub:** https://github.com/KailashSatkuri-warangal/AI-Recruitment-Pipeline  
-
-![Dashboard](https://github.com/KailashSatkuri-warangal/NexHireAI/blob/main/docs/Source/Dashboard.jpg?raw=true)
-
----
-
-## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Developer;Full-Stack+Developer;Generative+AI+Explorer" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy-4mjp1kvwq-ryo-ma-s-team.vercel.app/?username=KailashSatkuri-warangal&theme=light&row=1&column=6" />
+</p>
 
 <p align="center">
-  <img src="https://github-gadgets-pro.vercel.app/api/stats?username=KailashSatkuri-warangal&theme=dark" width="48%" />
-  <img src="https://github-gadgets-pro.vercel.app/api/languages?username=KailashSatkuri-warangal" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=KailashSatkuri-warangal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 📈 GitHub Streak
+## 🧠 About Me
+
+- 🎓 Final-year **B.Tech CSE (AIML)**
+- 🤖 Focused on **Machine Learning, AI Systems, and Full-Stack Development**
+- 🚀 Building **real-world AI products**
+- 📚 Exploring **Generative AI & scalable architectures**
+- 💬 Ask me about: `Python`, `ML`, `System Design`, `Web Dev`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `JavaScript` `TypeScript`
+
+**AI/ML:**  
+`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `NLTK` `SpaCy`
+
+**Web:**  
+`React` `Next.js` `Node.js` `Flask` `FastAPI`
+
+**Database:**  
+`MongoDB` `Firebase` `SQLite`
+
+**Tools:**  
+`Git` `Linux` `Streamlit` `Vercel`
+
+---
+## 💼 Featured Projects
+
+---
+
+### 🌾 Crop Detection Guard AI
+
+<table>
+<tr>
+<td width="60%">
+
+**Tech:** TensorFlow, OpenCV, Flask, Streamlit  
+
+- CNN model for crop disease detection  
+- Real-time image processing  
+- Streamlit dashboard + Flask backend  
+
+🔗 [Live](https://crop-detection-guard-ai.streamlit.app/)  
+🔗 [Code](https://github.com/KailashSatkuri-warangal/crop-detection-guard-ai)
+
+</td>
+<td width="40%">
+  <img src="https://github.com/KailashSatkuri-warangal/crop-detection-guard-ai/blob/main/CROP_DETECTION_UI.png?raw=true" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+### 📝 Customer Review Sentiment Analysis
+
+<table>
+<tr>
+<td width="60%">
+
+**Tech:** NLTK, SpaCy, Streamlit  
+
+- NLP preprocessing & sentiment classification  
+- Visualization dashboard  
+
+🔗 [Live](https://reviewvibe.streamlit.app/)  
+🔗 [Code](https://github.com/KailashSatkuri-warangal/Customer_entiment-Analysis)
+
+</td>
+<td width="40%">
+  <img src="https://github.com/KailashSatkuri-warangal/Customer_entiment-Analysis/blob/main/NLP_UI.png?raw=true" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 NexHire AI – Recruitment Pipeline
+
+<table>
+<tr>
+<td width="60%">
+
+**Tech:** Next.js, TypeScript, Firebase, Gemini AI  
+
+- Resume parsing & candidate ranking  
+- AI-based job description matching  
+- Analytics dashboard  
+- Deployed on Vercel  
+
+🔗 [Code](https://github.com/KailashSatkuri-warangal/AI-Recruitment-Pipeline)
+
+</td>
+<td width="40%">
+  <img src="https://github.com/KailashSatkuri-warangal/NexHireAI/blob/main/docs/Source/Dashboard.jpg?raw=true" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+### 🏥 Healthcare Appointment & Telemedicine System
+
+<table>
+<tr>
+<td width="60%">
+
+**Tech:** Django, MySQL, Bootstrap, JavaScript, Jitsi Meet  
+
+- Full-stack healthcare system with role-based access  
+- Appointment booking + telemedicine (video consultation)  
+- Secure medical records & history management  
+- Notification system & dashboards  
+
+**Scale:**
+- Handles ~200–500 concurrent users  
+- Supports 15–30 video consultations  
+
+🔗 [Live](https://carebridge-m0qt.onrender.com/)  
+
+</td>
+<td width="40%">
+  <a href="https://carebridge-m0qt.onrender.com/">
+    <img src="https://github.com/user-attachments/assets/f06eecb6-05ff-4327-a1cc-167cd306becc" width="100%" />
+  </a>
+</td>
+</tr>
+</table>
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-gadgets-pro.vercel.app/api/streak?username=KailashSatkuri-warangal&theme=retro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KailashSatkuri-warangal&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KailashSatkuri-warangal&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📊 Contribution Heatmap
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-gadgets-pro.vercel.app/api/heatmap?username=KailashSatkuri-warangal&theme=retro" />
+  <img src="https://streak-stats.demolab.com?user=KailashSatkuri-warangal&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤖 AI Profile Summary
-
-```
-https://github-gadgets-pro.vercel.app/api/ai-summary?username=KailashSatkuri-warangal
-```
-
----
-
-## 🚀 AI Project Showcase
-
-```
-https://github-gadgets-pro.vercel.app/api/project-showcase?username=KailashSatkuri-warangal
-```
-
----
-
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-gadgets-pro.vercel.app/api/trophies?username=KailashSatkuri-warangal&theme=retro" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KailashSatkuri-warangal&theme=tokyo-night" />
 </p>
 
 ---
 
-## ⚡ Productivity Score
+## 🐍 Contribution Snake
 
-```
-https://github-gadgets-pro.vercel.app/api/productivity?username=KailashSatkuri-warangal
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" />
+</p>
 
 ---
 
-## 🧠 Career Recommendation
 
-```
-https://github-gadgets-pro.vercel.app/api/career?username=KailashSatkuri-warangal
-```
+## 🎯 Current Focus
+
+- 🔹 Advanced Machine Learning Projects  
+- 🔹 Generative AI Applications  
+- 🔹 Backend System Design  
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/satkuri-kailash/  
-- Portfolio: https://satkuri-kailash-portfolio.vercel.app/  
-- Resume: https://drive.google.com/file/d/1c5MD1g6v2r6j_Y6Us1Hf4Y0rLyTPSygZ/view  
-- Email: satkurikailash@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/satkuri-kailash/  
+- 🌍 Portfolio: https://satkuri-kailash-portfolio.vercel.app/  
+- 📄 Resume: https://drive.google.com/file/d/1gJSrQuuCxuIyiBkOt0qx7LqrXsPhXydD/view
+- 📧 Email: satkurikailash@gmail.com  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer"/>
+</p>
