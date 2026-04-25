@@ -43,12 +43,10 @@
 `Git` `Linux` `Streamlit` `Vercel`
 
 ---
+
 ## 💼 Featured Projects
 
----
-
 ### 🌾 Crop Detection Guard AI
-
 <table>
 <tr>
 <td width="60%">
@@ -72,7 +70,6 @@
 ---
 
 ### 📝 Customer Review Sentiment Analysis
-
 <table>
 <tr>
 <td width="60%">
@@ -95,7 +92,6 @@
 ---
 
 ### 🤖 NexHire AI – Recruitment Pipeline
-
 <table>
 <tr>
 <td width="60%">
@@ -119,7 +115,6 @@
 ---
 
 ### 🏥 Healthcare Appointment & Telemedicine System
-
 <table>
 <tr>
 <td width="60%">
@@ -145,6 +140,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
@@ -172,15 +168,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/KailashSatkuri-warangal/output/snake.svg" />
-</p>
-
----
-
-
 ## 🎯 Current Focus
 
 - 🔹 Advanced Machine Learning Projects  
@@ -193,7 +180,7 @@
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/satkuri-kailash/  
 - 🌍 Portfolio: https://satkuri-kailash-portfolio.vercel.app/  
-- 📄 Resume: https://drive.google.com/file/d/1gJSrQuuCxuIyiBkOt0qx7LqrXsPhXydD/view
+- 📄 Resume: https://drive.google.com/file/d/1gJSrQuuCxuIyiBkOt0qx7LqrXsPhXydD/view  
 - 📧 Email: satkurikailash@gmail.com  
 
 ---
